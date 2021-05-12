@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **spin6lock/spin6lock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![spin6lock's GitHub stats](https://github-readme-stats-eight-plum-27.vercel.app/api?username=spin6lock&show_icons=true&theme=radical)
